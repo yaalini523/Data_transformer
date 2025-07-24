@@ -1,0 +1,808 @@
+2025-07-18 06:40:24,987 - json_transformer - INFO - json_transformer
+2025-07-18 06:40:24,987 - json_transformer - INFO - Transfermation started
+2025-07-18 08:38:20,629 - json_transformer - INFO - json_transformer
+2025-07-18 08:38:20,633 - json_transformer - INFO - alice.json file is read
+2025-07-18 08:38:20,633 - json_transformer - INFO - json_transformer
+2025-07-18 08:38:20,633 - json_transformer - INFO - json_transformer
+2025-07-18 08:38:20,633 - json_transformer - INFO - Transfermation started
+2025-07-18 08:38:20,633 - json_transformer - INFO - Transfermation started
+2025-07-18 08:41:15,408 - json_transformer - INFO - json_transformer
+2025-07-18 08:41:15,408 - json_transformer - INFO - json_transformer
+2025-07-18 08:41:15,408 - json_transformer - INFO - json_transformer
+2025-07-18 08:41:15,408 - json_transformer - INFO - Reading the file...
+2025-07-18 08:41:15,408 - json_transformer - INFO - Reading the file...
+2025-07-18 08:41:15,408 - json_transformer - INFO - alice.json file is read
+2025-07-18 08:41:15,408 - json_transformer - INFO - alice.json file is read
+2025-07-18 08:41:15,408 - json_transformer - INFO - Transfermation started
+2025-07-18 08:41:15,408 - json_transformer - INFO - Transfermation started
+2025-07-18 08:42:36,195 - json_transformer - INFO - json_transformer
+2025-07-18 08:42:36,196 - json_transformer - INFO - json_transformer
+2025-07-18 08:42:36,196 - json_transformer - INFO - json_transformer
+2025-07-18 08:42:36,196 - json_transformer - INFO - Reading the file...
+2025-07-18 08:42:36,196 - json_transformer - INFO - Reading the file...
+2025-07-18 08:42:36,197 - json_transformer - INFO - alice.json file is read
+2025-07-18 08:42:36,197 - json_transformer - INFO - alice.json file is read
+2025-07-18 08:42:36,197 - json_transformer - INFO - Transfermation started
+2025-07-18 08:42:36,197 - json_transformer - INFO - Transfermation started
+2025-07-18 10:48:10,525 - json_transformer - INFO - json_transformer
+2025-07-18 10:48:10,529 - json_transformer - INFO - json_transformer
+2025-07-18 10:48:10,529 - json_transformer - INFO - json_transformer
+2025-07-18 10:48:10,529 - json_transformer - INFO - json_transformer
+2025-07-18 10:48:10,529 - json_transformer - INFO - json_transformer
+2025-07-18 10:48:10,529 - json_transformer - INFO - json_transformer
+2025-07-18 10:48:10,529 - json_transformer - INFO - Transfermation started
+2025-07-18 10:48:10,529 - json_transformer - INFO - Transfermation started
+2025-07-18 10:48:10,529 - json_transformer - INFO - Transfermation started
+2025-07-18 10:48:10,529 - json_transformer - INFO - Reading the file...
+2025-07-18 10:48:10,529 - json_transformer - INFO - Reading the file...
+2025-07-18 10:48:10,529 - json_transformer - INFO - Reading the file...
+2025-07-18 10:48:10,530 - json_transformer - INFO - alice.json file is read
+2025-07-18 10:48:10,530 - json_transformer - INFO - alice.json file is read
+2025-07-18 10:48:10,530 - json_transformer - INFO - alice.json file is read
+2025-07-18 10:48:10,530 - json_transformer - INFO - Transforming data...
+2025-07-18 10:48:10,530 - json_transformer - INFO - Transforming data...
+2025-07-18 10:48:10,530 - json_transformer - INFO - Transforming data...
+2025-07-18 10:48:10,530 - json_transformer - WARNING - invalid first and last name
+2025-07-18 10:48:10,530 - json_transformer - WARNING - invalid first and last name
+2025-07-18 10:48:10,530 - json_transformer - WARNING - invalid first and last name
+2025-07-18 11:04:30,075 - json_transformer - INFO - json_transformer
+2025-07-18 11:04:30,078 - json_transformer - INFO - json_transformer
+2025-07-18 11:04:30,078 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,374 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,380 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,380 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,380 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,380 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,380 - json_transformer - INFO - json_transformer
+2025-07-18 11:13:47,380 - json_transformer - INFO - Transfermation started
+2025-07-18 11:13:47,380 - json_transformer - INFO - Transfermation started
+2025-07-18 11:13:47,380 - json_transformer - INFO - Transfermation started
+2025-07-18 11:13:47,380 - json_transformer - INFO - Reading the file...
+2025-07-18 11:13:47,380 - json_transformer - INFO - Reading the file...
+2025-07-18 11:13:47,380 - json_transformer - INFO - Reading the file...
+2025-07-18 11:13:47,382 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:13:47,382 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:13:47,382 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:13:47,382 - json_transformer - INFO - Transforming data...
+2025-07-18 11:13:47,382 - json_transformer - INFO - Transforming data...
+2025-07-18 11:13:47,382 - json_transformer - INFO - Transforming data...
+2025-07-18 11:17:49,474 - json_transformer - INFO - json_transformer
+2025-07-18 11:17:49,476 - json_transformer - INFO - json_transformer
+2025-07-18 11:17:49,476 - json_transformer - INFO - json_transformer
+2025-07-18 11:17:49,476 - json_transformer - INFO - json_transformer
+2025-07-18 11:17:49,476 - json_transformer - INFO - json_transformer
+2025-07-18 11:17:49,476 - json_transformer - INFO - json_transformer
+2025-07-18 11:17:49,476 - json_transformer - INFO - Transfermation started
+2025-07-18 11:17:49,476 - json_transformer - INFO - Transfermation started
+2025-07-18 11:17:49,476 - json_transformer - INFO - Transfermation started
+2025-07-18 11:17:49,476 - json_transformer - INFO - Reading the file...
+2025-07-18 11:17:49,476 - json_transformer - INFO - Reading the file...
+2025-07-18 11:17:49,476 - json_transformer - INFO - Reading the file...
+2025-07-18 11:17:49,476 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:17:49,476 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:17:49,476 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:17:49,477 - json_transformer - INFO - Transforming data...
+2025-07-18 11:17:49,477 - json_transformer - INFO - Transforming data...
+2025-07-18 11:17:49,477 - json_transformer - INFO - Transforming data...
+2025-07-18 11:33:50,038 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,043 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,043 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - json_transformer
+2025-07-18 11:33:50,044 - json_transformer - INFO - Transfermation started
+2025-07-18 11:33:50,044 - json_transformer - INFO - Transfermation started
+2025-07-18 11:33:50,044 - json_transformer - INFO - Transfermation started
+2025-07-18 11:33:50,044 - json_transformer - INFO - Transfermation started
+2025-07-18 11:33:50,044 - json_transformer - INFO - Reading the file...
+2025-07-18 11:33:50,044 - json_transformer - INFO - Reading the file...
+2025-07-18 11:33:50,044 - json_transformer - INFO - Reading the file...
+2025-07-18 11:33:50,044 - json_transformer - INFO - Reading the file...
+2025-07-18 11:33:50,045 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:33:50,045 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:33:50,045 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:33:50,045 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:33:50,045 - json_transformer - INFO - Transforming data...
+2025-07-18 11:33:50,045 - json_transformer - INFO - Transforming data...
+2025-07-18 11:33:50,045 - json_transformer - INFO - Transforming data...
+2025-07-18 11:33:50,045 - json_transformer - INFO - Transforming data...
+2025-07-18 11:33:50,048 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:33:50,048 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:33:50,048 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:33:50,048 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:33:50,048 - json_transformer - ERROR - Transformation failed...Error : [Errno 21] Is a directory: './output_data'
+2025-07-18 11:33:50,048 - json_transformer - ERROR - Transformation failed...Error : [Errno 21] Is a directory: './output_data'
+2025-07-18 11:33:50,048 - json_transformer - ERROR - Transformation failed...Error : [Errno 21] Is a directory: './output_data'
+2025-07-18 11:33:50,048 - json_transformer - ERROR - Transformation failed...Error : [Errno 21] Is a directory: './output_data'
+2025-07-18 11:40:39,069 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,074 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,074 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - json_transformer
+2025-07-18 11:40:39,077 - json_transformer - INFO - Transfermation started
+2025-07-18 11:40:39,077 - json_transformer - INFO - Transfermation started
+2025-07-18 11:40:39,077 - json_transformer - INFO - Transfermation started
+2025-07-18 11:40:39,077 - json_transformer - INFO - Transfermation started
+2025-07-18 11:40:39,077 - json_transformer - INFO - Reading the file...
+2025-07-18 11:40:39,077 - json_transformer - INFO - Reading the file...
+2025-07-18 11:40:39,077 - json_transformer - INFO - Reading the file...
+2025-07-18 11:40:39,077 - json_transformer - INFO - Reading the file...
+2025-07-18 11:40:39,078 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:40:39,078 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:40:39,078 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:40:39,078 - json_transformer - INFO - alice.json file is read
+2025-07-18 11:40:39,078 - json_transformer - INFO - Transforming data...
+2025-07-18 11:40:39,078 - json_transformer - INFO - Transforming data...
+2025-07-18 11:40:39,078 - json_transformer - INFO - Transforming data...
+2025-07-18 11:40:39,078 - json_transformer - INFO - Transforming data...
+2025-07-18 11:40:39,082 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:40:39,082 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:40:39,082 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:40:39,082 - json_transformer - INFO - Writing transformed data...
+2025-07-18 11:40:39,083 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-18 11:40:39,083 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-18 11:40:39,083 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-18 11:40:39,083 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-21 04:38:19,169 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,172 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,172 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,174 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,174 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,174 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,175 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,175 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,175 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,175 - json_transformer - INFO - json_transformer
+2025-07-21 04:38:19,175 - json_transformer - INFO - Transfermation started
+2025-07-21 04:38:19,175 - json_transformer - INFO - Transfermation started
+2025-07-21 04:38:19,175 - json_transformer - INFO - Transfermation started
+2025-07-21 04:38:19,175 - json_transformer - INFO - Transfermation started
+2025-07-21 04:38:19,175 - json_transformer - INFO - Reading the file...
+2025-07-21 04:38:19,175 - json_transformer - INFO - Reading the file...
+2025-07-21 04:38:19,175 - json_transformer - INFO - Reading the file...
+2025-07-21 04:38:19,175 - json_transformer - INFO - Reading the file...
+2025-07-21 04:38:19,176 - json_transformer - INFO - alice.json file is read
+2025-07-21 04:38:19,176 - json_transformer - INFO - alice.json file is read
+2025-07-21 04:38:19,176 - json_transformer - INFO - alice.json file is read
+2025-07-21 04:38:19,176 - json_transformer - INFO - alice.json file is read
+2025-07-21 04:38:19,176 - json_transformer - INFO - Transforming data...
+2025-07-21 04:38:19,176 - json_transformer - INFO - Transforming data...
+2025-07-21 04:38:19,176 - json_transformer - INFO - Transforming data...
+2025-07-21 04:38:19,176 - json_transformer - INFO - Transforming data...
+2025-07-21 04:38:19,183 - json_transformer - INFO - Writing transformed data...
+2025-07-21 04:38:19,183 - json_transformer - INFO - Writing transformed data...
+2025-07-21 04:38:19,183 - json_transformer - INFO - Writing transformed data...
+2025-07-21 04:38:19,183 - json_transformer - INFO - Writing transformed data...
+2025-07-21 04:38:19,184 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-21 04:38:19,184 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-21 04:38:19,184 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-21 04:38:19,184 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-22 07:21:26,401 - json_transformer - INFO - json_transformer
+2025-07-22 07:21:26,401 - json_transformer - INFO - json_transformer
+2025-07-22 07:21:26,401 - json_transformer - INFO - json_transformer
+2025-07-22 07:21:26,671 - json_transformer - INFO - Transfermation started
+2025-07-22 07:21:26,671 - json_transformer - INFO - Transfermation started
+2025-07-22 07:21:26,671 - json_transformer - INFO - Reading the file...
+2025-07-22 07:21:26,671 - json_transformer - INFO - Reading the file...
+2025-07-22 08:33:28,090 - json_transformer - INFO - json_transformer
+2025-07-22 08:33:28,090 - json_transformer - INFO - json_transformer
+2025-07-22 08:33:28,090 - json_transformer - INFO - json_transformer
+2025-07-22 08:33:28,147 - json_transformer - INFO - Transfermation started
+2025-07-22 08:33:28,147 - json_transformer - INFO - Transfermation started
+2025-07-22 08:33:28,147 - json_transformer - INFO - Reading the file...
+2025-07-22 08:33:28,147 - json_transformer - INFO - Reading the file...
+2025-07-22 08:33:29,827 - json_transformer - INFO - Transforming data...
+2025-07-22 08:33:29,827 - json_transformer - INFO - Transforming data...
+2025-07-22 08:33:29,828 - json_transformer - INFO - Writing transformed data...
+2025-07-22 08:33:29,828 - json_transformer - INFO - Writing transformed data...
+2025-07-22 08:35:09,424 - json_transformer - INFO - json_transformer
+2025-07-22 08:35:09,424 - json_transformer - INFO - json_transformer
+2025-07-22 08:35:09,424 - json_transformer - INFO - json_transformer
+2025-07-22 08:35:09,483 - json_transformer - INFO - Transfermation started
+2025-07-22 08:35:09,483 - json_transformer - INFO - Transfermation started
+2025-07-22 08:35:09,483 - json_transformer - INFO - Reading the file...
+2025-07-22 08:35:09,483 - json_transformer - INFO - Reading the file...
+2025-07-22 08:35:10,317 - json_transformer - INFO - Transforming data...
+2025-07-22 08:35:10,317 - json_transformer - INFO - Transforming data...
+2025-07-22 08:35:10,318 - json_transformer - INFO - Writing transformed data...
+2025-07-22 08:35:10,318 - json_transformer - INFO - Writing transformed data...
+2025-07-22 08:36:37,566 - json_transformer - INFO - json_transformer
+2025-07-22 08:36:37,566 - json_transformer - INFO - json_transformer
+2025-07-22 08:36:37,566 - json_transformer - INFO - json_transformer
+2025-07-22 08:36:37,632 - json_transformer - INFO - Transfermation started
+2025-07-22 08:36:37,632 - json_transformer - INFO - Transfermation started
+2025-07-22 08:36:37,632 - json_transformer - INFO - Reading the file...
+2025-07-22 08:36:37,632 - json_transformer - INFO - Reading the file...
+2025-07-22 08:36:38,242 - json_transformer - INFO - Transforming data...
+2025-07-22 08:36:38,242 - json_transformer - INFO - Transforming data...
+2025-07-22 08:36:38,242 - json_transformer - INFO - Writing transformed data...
+2025-07-22 08:36:38,242 - json_transformer - INFO - Writing transformed data...
+2025-07-22 09:16:16,155 - json_transformer - INFO - json_transformer
+2025-07-22 09:16:16,155 - json_transformer - INFO - json_transformer
+2025-07-22 09:16:16,155 - json_transformer - INFO - json_transformer
+2025-07-22 09:16:16,329 - json_transformer - INFO - Transfermation started
+2025-07-22 09:16:16,329 - json_transformer - INFO - Transfermation started
+2025-07-22 09:16:16,329 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:16:16,329 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:17:39,396 - json_transformer - INFO - json_transformer
+2025-07-22 09:17:39,396 - json_transformer - INFO - json_transformer
+2025-07-22 09:17:39,396 - json_transformer - INFO - json_transformer
+2025-07-22 09:17:39,456 - json_transformer - INFO - Transfermation started
+2025-07-22 09:17:39,456 - json_transformer - INFO - Transfermation started
+2025-07-22 09:17:39,456 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:17:39,456 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:17:41,000 - json_transformer - INFO - Transforming data...
+2025-07-22 09:17:41,000 - json_transformer - INFO - Transforming data...
+2025-07-22 09:17:41,000 - json_transformer - WARNING - invalid first and last name
+2025-07-22 09:17:41,000 - json_transformer - WARNING - invalid first and last name
+2025-07-22 09:18:53,806 - json_transformer - INFO - json_transformer
+2025-07-22 09:18:53,806 - json_transformer - INFO - json_transformer
+2025-07-22 09:18:53,806 - json_transformer - INFO - json_transformer
+2025-07-22 09:18:53,871 - json_transformer - INFO - Transfermation started
+2025-07-22 09:18:53,871 - json_transformer - INFO - Transfermation started
+2025-07-22 09:18:53,871 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:18:53,871 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:18:55,510 - json_transformer - INFO - Transforming data...
+2025-07-22 09:18:55,510 - json_transformer - INFO - Transforming data...
+2025-07-22 09:18:55,510 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 09:18:55,510 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 09:21:43,670 - json_transformer - INFO - json_transformer
+2025-07-22 09:21:43,671 - json_transformer - INFO - json_transformer
+2025-07-22 09:21:43,671 - json_transformer - INFO - json_transformer
+2025-07-22 09:21:43,732 - json_transformer - INFO - Transfermation started
+2025-07-22 09:21:43,732 - json_transformer - INFO - Transfermation started
+2025-07-22 09:21:43,732 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:21:43,732 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 09:21:44,679 - json_transformer - INFO - Transforming data...
+2025-07-22 09:21:44,679 - json_transformer - INFO - Transforming data...
+2025-07-22 09:21:44,679 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 09:21:44,679 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:03:50,052 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,054 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,054 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,055 - json_transformer - INFO - json_transformer
+2025-07-22 10:03:50,386 - json_transformer - INFO - Transfermation started
+2025-07-22 10:03:50,386 - json_transformer - INFO - Transfermation started
+2025-07-22 10:03:50,386 - json_transformer - INFO - Transfermation started
+2025-07-22 10:03:50,386 - json_transformer - INFO - Transfermation started
+2025-07-22 10:03:50,386 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:03:50,386 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:03:50,386 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:03:50,386 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:03:51,065 - json_transformer - INFO - Transforming data...
+2025-07-22 10:03:51,065 - json_transformer - INFO - Transforming data...
+2025-07-22 10:03:51,065 - json_transformer - INFO - Transforming data...
+2025-07-22 10:03:51,065 - json_transformer - INFO - Transforming data...
+2025-07-22 10:04:23,294 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,295 - json_transformer - INFO - json_transformer
+2025-07-22 10:04:23,443 - json_transformer - INFO - Transfermation started
+2025-07-22 10:04:23,443 - json_transformer - INFO - Transfermation started
+2025-07-22 10:04:23,443 - json_transformer - INFO - Transfermation started
+2025-07-22 10:04:23,443 - json_transformer - INFO - Transfermation started
+2025-07-22 10:04:23,444 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:04:23,444 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:04:23,444 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:04:23,444 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Transforming data...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Transforming data...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Transforming data...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Transforming data...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:04:23,728 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:04:23,932 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-22 10:04:23,932 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-22 10:04:23,932 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-22 10:04:23,932 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-22 10:07:41,475 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,476 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,476 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,476 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,476 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,476 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,477 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,477 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,477 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,477 - json_transformer - INFO - json_transformer
+2025-07-22 10:07:41,595 - json_transformer - INFO - Transfermation started
+2025-07-22 10:07:41,595 - json_transformer - INFO - Transfermation started
+2025-07-22 10:07:41,595 - json_transformer - INFO - Transfermation started
+2025-07-22 10:07:41,595 - json_transformer - INFO - Transfermation started
+2025-07-22 10:07:41,596 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:07:41,596 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:07:41,596 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:07:41,596 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Transforming data...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Transforming data...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Transforming data...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Transforming data...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:07:41,971 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:07:42,109 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:07:42,109 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:07:42,109 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:07:42,109 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:10:07,275 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,277 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,277 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,277 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,277 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,277 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,278 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,278 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,278 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,278 - json_transformer - INFO - json_transformer
+2025-07-22 10:10:07,387 - json_transformer - INFO - Transfermation started
+2025-07-22 10:10:07,387 - json_transformer - INFO - Transfermation started
+2025-07-22 10:10:07,387 - json_transformer - INFO - Transfermation started
+2025-07-22 10:10:07,387 - json_transformer - INFO - Transfermation started
+2025-07-22 10:10:07,387 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:10:07,387 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:10:07,387 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:10:07,387 - json_transformer - INFO - Reading the file from s3...
+2025-07-22 10:10:08,402 - json_transformer - INFO - Transforming data...
+2025-07-22 10:10:08,402 - json_transformer - INFO - Transforming data...
+2025-07-22 10:10:08,402 - json_transformer - INFO - Transforming data...
+2025-07-22 10:10:08,402 - json_transformer - INFO - Transforming data...
+2025-07-22 10:10:08,433 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:10:08,433 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:10:08,433 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:10:08,433 - json_transformer - INFO - Writing transformed data from s3...
+2025-07-22 10:10:08,808 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:10:08,808 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:10:08,808 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-22 10:10:08,808 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-23 05:06:40,006 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,008 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,008 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - json_transformer
+2025-07-23 05:06:40,009 - json_transformer - INFO - Transfermation started
+2025-07-23 05:06:40,009 - json_transformer - INFO - Transfermation started
+2025-07-23 05:06:40,009 - json_transformer - INFO - Transfermation started
+2025-07-23 05:06:40,009 - json_transformer - INFO - Transfermation started
+2025-07-23 05:06:40,009 - json_transformer - INFO - Reading the file...
+2025-07-23 05:06:40,009 - json_transformer - INFO - Reading the file...
+2025-07-23 05:06:40,009 - json_transformer - INFO - Reading the file...
+2025-07-23 05:06:40,009 - json_transformer - INFO - Reading the file...
+2025-07-23 05:06:40,010 - json_transformer - INFO - alice.json file is read
+2025-07-23 05:06:40,010 - json_transformer - INFO - alice.json file is read
+2025-07-23 05:06:40,010 - json_transformer - INFO - alice.json file is read
+2025-07-23 05:06:40,010 - json_transformer - INFO - alice.json file is read
+2025-07-23 05:06:40,010 - json_transformer - INFO - Transforming data...
+2025-07-23 05:06:40,010 - json_transformer - INFO - Transforming data...
+2025-07-23 05:06:40,010 - json_transformer - INFO - Transforming data...
+2025-07-23 05:06:40,010 - json_transformer - INFO - Transforming data...
+2025-07-23 05:06:40,014 - json_transformer - INFO - Writing transformed data...
+2025-07-23 05:06:40,014 - json_transformer - INFO - Writing transformed data...
+2025-07-23 05:06:40,014 - json_transformer - INFO - Writing transformed data...
+2025-07-23 05:06:40,014 - json_transformer - INFO - Writing transformed data...
+2025-07-23 05:06:40,014 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-23 05:06:40,014 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-23 05:06:40,014 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-23 05:06:40,014 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-23 05:21:57,672 - json_transformer - INFO - json_transformer
+2025-07-23 05:21:57,681 - json_transformer - WARNING -  -- invalid address
+2025-07-23 05:32:36,517 - json_transformer - INFO - json_transformer
+2025-07-23 05:32:51,049 - json_transformer - INFO - json_transformer
+2025-07-23 05:33:42,802 - json_transformer - INFO - json_transformer
+2025-07-23 05:35:44,904 - json_transformer - INFO - json_transformer
+2025-07-23 05:37:16,425 - json_transformer - INFO - json_transformer
+2025-07-23 05:40:27,010 - json_transformer - INFO - json_transformer
+2025-07-23 05:42:00,817 - json_transformer - INFO - json_transformer
+2025-07-23 05:43:31,969 - json_transformer - INFO - json_transformer
+2025-07-23 09:03:59,681 - json_transformer - INFO - json_transformer
+2025-07-23 09:03:59,688 - json_transformer - INFO - alice.json file is read
+2025-07-23 09:04:41,583 - json_transformer - INFO - json_transformer
+2025-07-23 09:04:41,588 - json_transformer - INFO - alice.json file is read
+2025-07-23 09:10:42,955 - json_transformer - INFO - json_transformer
+2025-07-23 09:10:42,963 - json_transformer - INFO - alice.json file is read
+2025-07-23 09:18:08,088 - json_transformer - INFO - json_transformer
+2025-07-23 09:18:08,137 - json_transformer - INFO - alice.json file is read
+2025-07-23 09:22:20,331 - json_transformer - INFO - json_transformer
+2025-07-23 09:22:20,364 - json_transformer - INFO - sample.json file is read
+2025-07-23 09:44:59,458 - json_transformer - INFO - json_transformer
+2025-07-23 09:44:59,463 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 11:19:30,574 - json_transformer - INFO - json_transformer
+2025-07-23 11:19:30,583 - json_transformer - INFO - json_transformer
+2025-07-23 11:19:30,583 - json_transformer - INFO - json_transformer
+2025-07-23 11:19:30,585 - json_transformer - INFO - json_transformer
+2025-07-23 11:19:30,585 - json_transformer - INFO - json_transformer
+2025-07-23 11:19:30,585 - json_transformer - INFO - json_transformer
+2025-07-23 11:19:30,588 - json_transformer - INFO - sample.json file is read
+2025-07-23 11:19:30,588 - json_transformer - INFO - sample.json file is read
+2025-07-23 11:19:30,588 - json_transformer - INFO - sample.json file is read
+2025-07-23 11:19:30,722 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 11:19:30,722 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 11:19:30,722 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 11:44:04,806 - json_transformer - INFO - json_transformer
+2025-07-23 11:44:04,823 - json_transformer - INFO - json_transformer
+2025-07-23 11:44:04,823 - json_transformer - INFO - json_transformer
+2025-07-23 11:44:04,826 - json_transformer - INFO - json_transformer
+2025-07-23 11:44:04,826 - json_transformer - INFO - json_transformer
+2025-07-23 11:44:04,826 - json_transformer - INFO - json_transformer
+2025-07-23 11:44:04,830 - json_transformer - INFO - sample.json file is read
+2025-07-23 11:44:04,830 - json_transformer - INFO - sample.json file is read
+2025-07-23 11:44:04,830 - json_transformer - INFO - sample.json file is read
+2025-07-23 11:44:05,218 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 11:44:05,218 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 11:44:05,218 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:00:20,861 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,909 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,909 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,918 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,918 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,918 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,921 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,921 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,921 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,921 - json_transformer - INFO - json_transformer
+2025-07-23 12:00:20,925 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:00:20,925 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:00:20,925 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:00:20,925 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:00:21,390 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:00:21,390 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:00:21,390 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:00:21,390 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:15:39,900 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,968 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,968 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,985 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,985 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,985 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,991 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,991 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,991 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,991 - json_transformer - INFO - json_transformer
+2025-07-23 12:15:39,997 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:15:39,997 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:15:39,997 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:15:39,997 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:15:40,635 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:15:40,635 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:15:40,635 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:15:40,635 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:15:40,802 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:15:40,802 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:15:40,802 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:15:40,802 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:21:28,231 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,308 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,308 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,319 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,319 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,319 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,321 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,321 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,321 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,321 - json_transformer - INFO - json_transformer
+2025-07-23 12:21:28,326 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:21:28,326 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:21:28,326 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:21:28,326 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:21:28,515 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:21:28,515 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:21:28,515 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:21:28,515 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:21:28,659 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:21:28,659 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:21:28,659 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:21:28,659 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:24:15,684 - json_transformer - INFO - json_transformer
+2025-07-23 12:24:15,865 - json_transformer - ERROR - Failed to list objects in bucket 'json-data-transformer':An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+2025-07-23 12:28:02,730 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,800 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,800 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,818 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,818 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,818 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,824 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,824 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,824 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,824 - json_transformer - INFO - json_transformer
+2025-07-23 12:28:02,831 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:28:02,831 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:28:02,831 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:28:02,831 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:28:03,395 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:28:03,395 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:28:03,395 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:28:03,395 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:35:11,795 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,849 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,849 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,852 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,852 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,852 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,857 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,857 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,857 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,857 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,861 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,861 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,861 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,861 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,861 - json_transformer - INFO - json_transformer
+2025-07-23 12:35:11,867 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:35:11,867 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:35:11,867 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:35:11,867 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:35:11,867 - json_transformer - INFO - sample.json file is read
+2025-07-23 12:35:12,150 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 12:35:12,150 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 12:35:12,150 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 12:35:12,150 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 12:35:12,150 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 12:35:12,241 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:35:12,241 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:35:12,241 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:35:12,241 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 12:35:12,241 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:22:58,046 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,093 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,093 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,097 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,097 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,097 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,107 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,107 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,107 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,107 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,111 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,111 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,111 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,111 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,111 - json_transformer - INFO - json_transformer
+2025-07-23 15:22:58,117 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:22:58,117 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:22:58,117 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:22:58,117 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:22:58,117 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:22:58,544 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:22:58,544 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:22:58,544 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:22:58,544 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:22:58,544 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:22:58,625 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:22:58,625 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:22:58,625 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:22:58,625 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:22:58,625 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:29:43,037 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,070 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,070 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,072 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,072 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,072 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,082 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,082 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,082 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,082 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,084 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,084 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,084 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,084 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,084 - json_transformer - INFO - json_transformer
+2025-07-23 15:29:43,088 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:29:43,088 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:29:43,088 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:29:43,088 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:29:43,088 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:29:43,397 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:29:43,397 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:29:43,397 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:29:43,397 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:29:43,397 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:29:43,417 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:29:43,417 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:29:43,417 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:29:43,417 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:29:43,417 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:30:46,932 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,973 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,973 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,978 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,978 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,978 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,983 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,983 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,983 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,983 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,986 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,986 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,986 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,986 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,986 - json_transformer - INFO - json_transformer
+2025-07-23 15:30:46,992 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:30:46,992 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:30:46,992 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:30:46,992 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:30:46,992 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:30:47,300 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-23 15:30:47,300 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-23 15:30:47,300 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-23 15:30:47,300 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-23 15:30:47,300 - json_transformer - INFO - Data written to output_data/data_transformed.json
+2025-07-23 15:30:47,370 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:30:47,370 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:30:47,370 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:30:47,370 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:30:47,370 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:31:27,782 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,827 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,827 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,830 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,830 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,830 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,838 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,838 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,838 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,838 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,842 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,842 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,842 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,842 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,842 - json_transformer - INFO - json_transformer
+2025-07-23 15:31:27,847 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:31:27,847 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:31:27,847 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:31:27,847 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:31:27,847 - json_transformer - INFO - sample.json file is read
+2025-07-23 15:31:28,158 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:31:28,158 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:31:28,158 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:31:28,158 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:31:28,158 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-23 15:31:28,176 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:31:28,176 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:31:28,176 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:31:28,176 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:31:28,176 - json_transformer - INFO - Data written to test_output/sample.json
+2025-07-23 15:51:46,035 - json_transformer - INFO - json_transformer
+2025-07-23 15:51:46,557 - json_transformer - INFO - Data written to test-folder/data_transformed.json
+2025-07-24 09:06:54,313 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,314 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:54,315 - json_transformer - INFO - json_transformer
+2025-07-24 09:06:58,493 - json_transformer - INFO - Transfermation started
+2025-07-24 09:06:58,493 - json_transformer - INFO - Transfermation started
+2025-07-24 09:06:58,493 - json_transformer - INFO - Transfermation started
+2025-07-24 09:06:58,493 - json_transformer - INFO - Transfermation started
+2025-07-24 09:06:58,493 - json_transformer - INFO - Transfermation started
+2025-07-24 09:06:58,493 - json_transformer - INFO - Transfermation started
+2025-07-24 09:06:58,493 - json_transformer - INFO - Reading the file...
+2025-07-24 09:06:58,493 - json_transformer - INFO - Reading the file...
+2025-07-24 09:06:58,493 - json_transformer - INFO - Reading the file...
+2025-07-24 09:06:58,493 - json_transformer - INFO - Reading the file...
+2025-07-24 09:06:58,493 - json_transformer - INFO - Reading the file...
+2025-07-24 09:06:58,493 - json_transformer - INFO - Reading the file...
+2025-07-24 09:06:58,497 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:06:58,497 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:06:58,497 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:06:58,497 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:06:58,497 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:06:58,497 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:06:58,498 - json_transformer - INFO - Transforming data...
+2025-07-24 09:06:58,498 - json_transformer - INFO - Transforming data...
+2025-07-24 09:06:58,498 - json_transformer - INFO - Transforming data...
+2025-07-24 09:06:58,498 - json_transformer - INFO - Transforming data...
+2025-07-24 09:06:58,498 - json_transformer - INFO - Transforming data...
+2025-07-24 09:06:58,498 - json_transformer - INFO - Transforming data...
+2025-07-24 09:06:58,500 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:06:58,500 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:06:58,500 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:06:58,500 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:06:58,500 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:06:58,500 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:06:58,501 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:06:58,501 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:06:58,501 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:06:58,501 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:06:58,501 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:06:58,501 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:07:17,765 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:17,766 - json_transformer - INFO - json_transformer
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transfermation started
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transfermation started
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transfermation started
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transfermation started
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transfermation started
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transfermation started
+2025-07-24 09:07:28,151 - json_transformer - INFO - Reading the file...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Reading the file...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Reading the file...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Reading the file...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Reading the file...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Reading the file...
+2025-07-24 09:07:28,151 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:07:28,151 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:07:28,151 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:07:28,151 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:07:28,151 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:07:28,151 - json_transformer - INFO - alice.json file is read
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transforming data...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transforming data...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transforming data...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transforming data...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transforming data...
+2025-07-24 09:07:28,151 - json_transformer - INFO - Transforming data...
+2025-07-24 09:07:28,153 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:07:28,153 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:07:28,153 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:07:28,153 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:07:28,153 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:07:28,153 - json_transformer - INFO - Writing transformed data...
+2025-07-24 09:07:28,154 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:07:28,154 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:07:28,154 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:07:28,154 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:07:28,154 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
+2025-07-24 09:07:28,154 - json_transformer - INFO - Data written to ./output_data/data_transformed.json
