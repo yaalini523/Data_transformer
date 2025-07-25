@@ -9,26 +9,30 @@ from transformer.data_transformer import transform_all
 logger = setup_logger()
 s3 = boto3.client('s3', region_name='ap-south-1')
 
-x = input("enter whether data from local or s3 bucket : ")
+x = input("Enter whether data is from 'local' or 's3' bucket: ").strip().lower()
 
-logger.info("Transfermation started")
-if x == "local":
-    logger.info("Reading the file...")
-    data = read_file()
-else:
-    logger.info("Reading the file from s3...")
-    data = read_s3_file(s3)
+logger.info("Transformation started")
 
-logger.info("Transforming data...")
-transformed_data = transform_all(data)
+match x:
+    case "local":
+        logger.info("Reading the file from local...")
+        data = read_file()
+        logger.info("Transforming data...")
+        transformed_data = transform_all(data)
+        logger.info("Writing transformed data locally...")
+        write_output(transformed_data)
 
-if x == "local":
-    logger.info("Writing transformed data...")
-    write_output(transformed_data)
-else:
-    logger.info("Writing transformed data from s3...")
-    write_s3_file(s3,transformed_data)
-    
+    case "s3":
+        logger.info("Reading the file from S3...")
+        data = read_s3_file(s3)
+        logger.info("Transforming data...")
+        transformed_data = transform_all(data)
+        logger.info("Writing transformed data to S3...")
+        write_s3_file(s3, transformed_data)
+
+    case _:
+        logger.error("Invalid option. Please enter 'local' or 's3'.")
+
     
 
 """
